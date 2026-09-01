@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "todo-list-api",
+      "title": "To-Do List API with SQLite",
+      "description": "Build a small CRUD API for managing tasks with FastAPI and SQLite",
+      "path": "assignments/todo-list-api",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
